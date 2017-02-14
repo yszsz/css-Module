@@ -1,7 +1,8 @@
 # css-Module
 test css-Module
 
-npm install
+## Run this example
+$ npm install
 
-npm start
+$ npm start open http://localhost:8081
 
